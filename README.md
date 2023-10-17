@@ -6,7 +6,7 @@
 
 ## 使用
 
-在 [release](https://github.com/execute-darker/Archlinux-Phone-box/releases/latest) 页面下载 PNG 档案打印即可。
+在 [release](https://github.com/execute-darker/ProgynonDepot-Phone-box/releases/latest) 页面下载 PNG 档案打印即可。
 
 对于手机壳，由于各大电商平台有不同程度的图片压缩现象，其中拼多多最严重，淘宝较好，所以，建议在淘宝下单然后私聊客服直接发送 原图 png图片 即可。
  
