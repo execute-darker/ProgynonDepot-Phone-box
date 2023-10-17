@@ -14,7 +14,7 @@
 
 ## 介绍
 
-这是一个用来包装 Progynon-Depot 安装介质的盒子的平面设计。
+这是一个用来包装手机的Progynon-Depot元素平面设计。
 
 ## LICENSE
 
